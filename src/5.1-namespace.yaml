@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: deployments
   labels:
-    app: counter
+   - app: counter
